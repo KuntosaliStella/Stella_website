@@ -27,8 +27,8 @@ en: &DEFAULT_EN
       - title: "Hierontahuone"
         desc: "Erillinen hierontatuolihuone"
         icon: fas fa-laptop
-      - title: "Saunat"
-        desc: "Saunat on käytettävissäsi"
+      - title: "[Hinnasto](hinnasto.html)"
+        desc: "1kk 49€"
         icon: fab fa-markdown
 
   about:
